@@ -119,7 +119,7 @@ try {
 }
 ```
 
-通过oonFriendMessage回调函数,获得好友发送过来的信息
+通过onFriendMessage回调函数,获得好友发送过来的信息
 ```
 //3.2 接受好友信息
 public void onFriendMessage(Carrier carrier,String fromId, String message) {
