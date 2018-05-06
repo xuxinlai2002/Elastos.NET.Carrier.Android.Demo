@@ -47,8 +47,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="207">
-                <caret line="82" column="3" lean-forward="true" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+              <first_editor relative-caret-position="263">
+                <caret line="121" column="34" lean-forward="false" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -59,7 +59,7 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/demo/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="275">
+            <state relative-caret-position="261">
               <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="150" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -2628,7 +2628,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/android/carrier/net/elastos/demo/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
+        <state relative-caret-position="261">
           <caret line="146" column="0" lean-forward="false" selection-start-line="146" selection-start-column="0" selection-end-line="150" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -2645,8 +2645,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="207">
-            <caret line="82" column="3" lean-forward="true" selection-start-line="82" selection-start-column="3" selection-end-line="82" selection-end-column="3" />
+          <first_editor relative-caret-position="263">
+            <caret line="121" column="34" lean-forward="false" selection-start-line="121" selection-start-column="34" selection-end-line="121" selection-end-column="34" />
             <folding />
           </first_editor>
           <second_editor />
