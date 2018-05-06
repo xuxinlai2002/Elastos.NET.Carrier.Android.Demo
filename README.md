@@ -70,13 +70,14 @@ try {
 }
 ```
 
-<font color=red>注意不要忘记设置手机文件权限</font>
+**注意不要忘记设置手机文件权限**
+
 
 ```
 <uses-permission android:name="android.permission.INTERNET"/>
 ```
 
-##加好友
+## 加好友
 
 通过addFriend增加好友，
 ```
@@ -105,7 +106,7 @@ public void onFriendRequest(Carrier carrier, String userId, UserInfo info, Strin
 }
 ```
 
-##发送消息
+## 发送消息
 通过sendFriendMessage给好友发消息
 ```
 //3.1发送信息
